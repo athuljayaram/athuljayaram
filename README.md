@@ -7,7 +7,7 @@ Cybersecurity Expert, Pentester, Ethical Hacker
 - 🐦 [X Profile](https://x.com/Athul7x)
 
 
-![athuljayaram's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=athuljayaram&layout=compact&theme=radical&langs_count=20)
+![athuljayaram's Stats](https://awesome-github-stats.azurewebsites.net/user-stats/athuljayaram?cardType=level&theme=radical&preferLogin=false)
 
 
 ![athuljayaram's Streak](https://github-readme-streak-stats.herokuapp.com/?user=athuljayaram&theme=radical)
