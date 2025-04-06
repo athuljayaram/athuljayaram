@@ -19,4 +19,5 @@ Cybersecurity Expert, Pentester, Ethical Hacker
 
 ![athuljayaram's Streak](https://ghchart.rshah.org/athuljayaram)
 
+![athuljayaram's Streak](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=athuljayaram&theme=radical)
 
