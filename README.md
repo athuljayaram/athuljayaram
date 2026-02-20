@@ -1,5 +1,5 @@
 I'm Athul, security engineer @ SecurityInfinity.
-
+Ex- Deloitte Cyber Risk Consultant
 Cybersecurity Expert, Pentester, Ethical Hacker
 
 
