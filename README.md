@@ -1,6 +1,6 @@
 # Hi, I'm Athul 👋
 
-🔐 **Security Engineer at SecurityInfinity**  
+🔐 **Security Engineer at [SecurityInfinity](https://securityinfinity.com)**  
 🛡️ **Ex-Deloitte Cyber Risk Consultant**  
 💻 **Cybersecurity Specialist | Penetration Tester | Ethical Hacker**
 
@@ -8,10 +8,16 @@ I work in offensive security, helping organizations identify and fix real-world 
 
 ---
 
+## 🌐 Website
+
+- 🔗 https://securityinfinity.com
+
+---
+
 ## 🔗 Connect With Me
 
 - 📧 **Email:** athul@securityinfinity.com  
-- 💼 **LinkedIn:** https://www.linkedin.com/in/athuljayaram
+- 💼 **LinkedIn:** https://www.linkedin.com/in/athuljayaram  
 - 🐦 **X (Twitter):** https://x.com/47hu1  
 
 ---
