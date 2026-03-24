@@ -11,7 +11,7 @@ I work in offensive security, helping organizations identify and fix real-world 
 ## 🔗 Connect With Me
 
 - 📧 **Email:** athul@securityinfinity.com  
-- 💼 **LinkedIn:** https://www.linkedin.com/in/athuljayaram/  
+- 💼 **LinkedIn:** https://www.linkedin.com/in/athuljayaram
 - 🐦 **X (Twitter):** https://x.com/47hu1  
 
 ---
